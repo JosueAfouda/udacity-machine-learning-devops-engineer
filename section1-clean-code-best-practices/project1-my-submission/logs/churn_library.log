@@ -1,0 +1,5 @@
+root - INFO - Importing data
+root - INFO - Performing EDA
+root - INFO - Encoding categorical features
+root - INFO - Performing Feature Engineering
+root - INFO - Training ML algorithms and Store artefacts (images + models)
