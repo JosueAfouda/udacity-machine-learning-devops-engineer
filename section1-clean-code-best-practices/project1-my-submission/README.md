@@ -20,4 +20,6 @@ Which customers are most likely to churn? This is the question that this project
 
 ## Running Files
 
-How do you run your files? What should happen when you run your files?
+install dependencies with this command : pip install -r requirements.txt
+
+I run this project in Python 3.10.1 version.
